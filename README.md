@@ -341,6 +341,4 @@ I'm always interested in collaborating on innovative AI projects, discussing cut
   Made with ❤️ and lots of Thé
 </sub>
 
-</div># #   N e w   S e c t i o n 
- 
- 
+</div>
