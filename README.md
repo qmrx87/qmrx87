@@ -20,9 +20,8 @@
 
 <!-- Profile Stats -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yacinedaitdehane&label=Profile%20Views&color=00d9ff&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/yacinedaitdehane?style=for-the-badge&color=92fe9d&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/yacinedaitdehane?style=for-the-badge&color=ffd700&logo=github)
-
+![GitHub Followers](https://img.shields.io/github/followers/qmrx87?style=for-the-badge&color=92fe9d&logo=github)
+ 
 </div>
 
 ---
