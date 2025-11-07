@@ -338,7 +338,7 @@ I'm always interested in collaborating on innovative AI projects, discussing cut
 <sub>
   <img src="https://img.shields.io/github/last-commit/qmrx87/qmrx87?label=Last%20Updated&color=00D9FF&style=flat-square"/>
   •
-  Made with ❤️ and lots of ☕
+  Made with ❤️ and lots of Thé
 </sub>
 
 </div>
