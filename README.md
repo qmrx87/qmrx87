@@ -56,7 +56,7 @@ class YacineDaitDehane:
 
 **🎓 Final-year Master's student passionate about advanced Deep Learning, data-driven innovation, and secure software development**
 
-*Experienced in leading projects and delivering real-world AI applications*
+*Experienced in leading projects and delivering real-world AI applicationns*
 
 </div>
 
@@ -341,5 +341,6 @@ I'm always interested in collaborating on innovative AI projects, discussing cut
   Made with ❤️ and lots of Thé
 </sub>
 
-</div># #   N e w   S e c t i o n  
+</div># #   N e w   S e c t i o n 
+ 
  
