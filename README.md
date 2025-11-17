@@ -96,7 +96,7 @@ class YacineDaitDehane:
 <tr>
 <td width="50%">
 
-###  [Paperly](https://github.com/yacinedaitdehane/paperly)
+###  [Paperly](https://github.com/ADHAYA-Technos/Automated-Information-Retrieval-and-Summarization-for-Academic-Research-Articles)
 **AI-Driven Academic Summarizer**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -114,7 +114,7 @@ OCR + LLM summarizer leveraging **GraphRAG** and **AgenticRAG** (DeepSeek1.5, Mi
 </td>
 <td width="50%">
 
-### 👨‍🏫 [ProFynd](https://github.com/yacinedaitdehane/profynd)
+### 👨‍🏫 [ProFynd](https://github.com/qmrx87/ProFynd-1.1)
 **Geo-Smart Tutor Finder**
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
@@ -134,7 +134,7 @@ Location-based mobile app connecting students with tutors using GPS and interest
 <tr>
 <td width="50%">
 
-###  [Drug Prescription Mining](https://github.com/yacinedaitdehane/drug-mining)
+###  [Drug Prescription Mining](https://github.com/ADHAYA-Technos/drug-prescription-pattern-mining)
 **Medical Data Analytics System**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -152,7 +152,7 @@ Pattern-mining system leveraging **ECLAT** and **FP-Growth** algorithms on 239K 
 </td>
 <td width="50%">
 
-###  [ESI Smart Store](https://github.com/yacinedaitdehane/esi-smart-store)
+###  [ESI Smart Store](https://github.com/ADHAYA-Technos/magasin-esi)
 **Modern Inventory Management**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
