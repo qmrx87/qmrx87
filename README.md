@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```python
 class YacineDaitDehane:
@@ -53,7 +53,7 @@ class YacineDaitDehane:
 
 <div align="center">
 
-**🎓 Final-year Master's student passionate about advanced Deep Learning, data-driven innovation, and secure software development**
+**  Final-year Master's student passionate about advanced Deep Learning, data-driven innovation, and secure software development**
 
 *Experienced in leading projects and delivering real-world AI applicationns*
 
@@ -61,13 +61,13 @@ class YacineDaitDehane:
 
 ---
 
-## 🎯 Expertise
+##  Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Artificial Intelligence
+###  Artificial Intelligence
 - **Deep Learning** (PyTorch, Neural Networks)
 - **Graph AI** (GraphRAG, Neo4j, NetworkX)
 - **Agentic Systems** (Multi-Agent RAG)
@@ -90,13 +90,13 @@ class YacineDaitDehane:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 📚 [Paperly](https://github.com/yacinedaitdehane/paperly)
+###  [Paperly](https://github.com/yacinedaitdehane/paperly)
 **AI-Driven Academic Summarizer**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -106,10 +106,10 @@ class YacineDaitDehane:
 OCR + LLM summarizer leveraging **GraphRAG** and **AgenticRAG** (DeepSeek1.5, Mistral). Deployed with Neo4j for scalable, query-based academic document summarization.
 
 **Key Features:**
-- 🔍 Advanced OCR document processing
-- 🧠 Multi-agent reasoning system
-- 📊 Knowledge graph integration
-- ⚡ Real-time query optimization
+-  Advanced OCR document processing
+-  Multi-agent reasoning system
+-  Knowledge graph integration
+-  Real-time query optimization
 
 </td>
 <td width="50%">
@@ -124,17 +124,17 @@ OCR + LLM summarizer leveraging **GraphRAG** and **AgenticRAG** (DeepSeek1.5, Mi
 Location-based mobile app connecting students with tutors using GPS and interest matching. Built with Google Maps API, Firebase, and Android Studio (Java).
 
 **Key Features:**
-- 📍 Real-time GPS location tracking
-- 🎯 Interest-based matching algorithm
-- 💬 In-app messaging system
-- ⭐ Rating & review system
+- Real-time GPS location tracking
+-  Interest-based matching algorithm
+-  In-app messaging system
+-  Rating & review system
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💊 [Drug Prescription Mining](https://github.com/yacinedaitdehane/drug-mining)
+###  [Drug Prescription Mining](https://github.com/yacinedaitdehane/drug-mining)
 **Medical Data Analytics System**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -144,15 +144,15 @@ Location-based mobile app connecting students with tutors using GPS and interest
 Pattern-mining system leveraging **ECLAT** and **FP-Growth** algorithms on 239K medical prescriptions, deployed with Streamlit.
 
 **Key Features:**
-- 📊 Real-time insights dashboard
-- 🔬 Intelligent prescription suggestions
-- ⚠️ Anomaly & error detection alerts
-- 📈 Pattern analysis & visualization
+-  Real-time insights dashboard
+-  Intelligent prescription suggestions
+-  Anomaly & error detection alerts
+-  Pattern analysis & visualization
 
 </td>
 <td width="50%">
 
-### 🏪 [ESI Smart Store](https://github.com/yacinedaitdehane/esi-smart-store)
+###  [ESI Smart Store](https://github.com/yacinedaitdehane/esi-smart-store)
 **Modern Inventory Management**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
@@ -162,10 +162,10 @@ Pattern-mining system leveraging **ECLAT** and **FP-Growth** algorithms on 239K 
 Modern web application for store operations with real-time inventory tracking and user-friendly interface.
 
 **Key Features:**
-- 📦 Real-time inventory updates
-- 🔄 Automated stock alerts
-- 📱 Responsive design
-- 📊 Analytics dashboard
+-  Real-time inventory updates
+-  Automated stock alerts
+-  Responsive design
+-  Analytics dashboard
 
 </td>
 </tr>
@@ -173,7 +173,7 @@ Modern web application for store operations with real-time inventory tracking an
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -203,38 +203,38 @@ Modern web application for store operations with real-time inventory tracking an
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 <details open>
-<summary><b>🚀 Co-Founder & Team Leader - ADHAYA Technos Startup</b> (2023 - Present)</summary>
+<summary><b> Co-Founder & Team Leader - ADHAYA Technos Startup</b> (2023 - Present)</summary>
 
 > Leading engineering and product delivery for secure, scalable web and mobile AI-based applications. Driving innovation through cutting-edge AI solutions and agile development practices.
 
 </details>
 
 <details>
-<summary><b>🛍️ Founder & Marketing Director - Tisharwatt E-Commerce</b> (Jan 2021 - Present)</summary>
+<summary><b> Founder & Marketing Director - Tisharwatt E-Commerce</b> (Jan 2021 - Present)</summary>
 
 > Created and managed an online clothing store, leading market research, branding, and customer engagement strategies. Built a loyal customer base through organic marketing and data-driven decision making.
 
 </details>
 
 <details>
-<summary><b>🔐 Cybersecurity Trainer - CNFE El Bayadh</b> (July 2025)</summary>
+<summary><b> Cybersecurity Trainer - CNFE El Bayadh</b> (July 2025)</summary>
 
 > Delivered comprehensive 3-day training program for administrative staff covering threat awareness, secure practices, and modern cybersecurity protocols.
 
 </details>
 
 <details>
-<summary><b>💾 Database Administration Intern - CNAS El Bayadh</b> (Sep 2023)</summary>
+<summary><b> Database Administration Intern - CNAS El Bayadh</b> (Sep 2023)</summary>
 
 > Optimized database performance and implemented improved data security procedures, enhancing system reliability and data protection.
 
 </details>
 
 <details>
-<summary><b>💰 Finance Member - Ingeniums Scientific Club</b> (2021 - 2023)</summary>
+<summary><b> Finance Member - Ingeniums Scientific Club</b> (2021 - 2023)</summary>
 
 > Assisted in financial planning and budgeting to optimize resource allocation for technical and scientific initiatives.
 
@@ -242,7 +242,7 @@ Modern web application for store operations with real-time inventory tracking an
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -256,7 +256,7 @@ Modern web application for store operations with real-time inventory tracking an
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -266,7 +266,7 @@ Modern web application for store operations with real-time inventory tracking an
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -280,7 +280,7 @@ Modern web application for store operations with real-time inventory tracking an
 
 <div align="center">
 
-| 🎯 Degree | 🏫 Institution | 📅 Duration |
+|  Degree |  Institution |  Duration |
 |-----------|----------------|-------------|
 | **Master 2 - Artificial Intelligence & Data Science** | Higher School of Computer Science (ESI)<br/>08 May 1945, Sidi Bel Abbès | 2021 - 2026 (Expected) |
 
@@ -288,7 +288,7 @@ Modern web application for store operations with real-time inventory tracking an
 
 ---
 
-## 💡 Current Focus
+##  Current Focus
 
 ```javascript
 const currentGoals = {
@@ -301,7 +301,7 @@ const currentGoals = {
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
