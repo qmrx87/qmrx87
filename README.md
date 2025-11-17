@@ -48,7 +48,7 @@ class YacineDaitDehane:
         ]
     
     def get_passion(self):
-        return "Transforming complex data into intelligent solutions 🚀"
+        return "Transforming complex data into intelligent solutions  "
 ```
 
 <div align="center">
@@ -61,7 +61,7 @@ class YacineDaitDehane:
 
 ---
 
-##  Expertise
+##  Interests
 
 <table>
 <tr>
