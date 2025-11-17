@@ -13,8 +13,8 @@
 <!-- Contact & Social Badges -->
 [![Email](https://img.shields.io/badge/Email-y.daitdehane%40esi--sba.dz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.daitdehane@esi-sba.dz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yacine-dait-dehane)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![ADHAYA Technos](https://img.shields.io/badge/Startup-ADHAYA%20Technos-92FE9D?style=for-the-badge&logo=rocket&logoColor=black)](https://adhaya-technos.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yacinedaitdehane.site/)
+[![ADHAYA Technos](https://img.shields.io/badge/Startup-ADHAYA%20Technos-92FE9D?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/ADHAYA-Technos)
 
 <br/>
 
