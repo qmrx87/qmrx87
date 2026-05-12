@@ -4,7 +4,7 @@
 
 &nbsp;
 
-AI engineer working on language models, graph-based retrieval, and applied systems for health and decision support.
+AI engineer working on Time Series Analysis, graph-based retrieval, and applied systems for health and decision support.
 
 &nbsp;
 
