@@ -1,0 +1,38 @@
+<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yacine Dait Dehane — AI engineer">
+  <title>Yacine Dait Dehane</title>
+  <desc>Architectural title plate. Geometric construction at left; name set in serif at right.</desc>
+  <defs>
+    <style>
+      .ink { fill: #0a0a0a; }
+      .stroke { stroke: #0a0a0a; fill: none; }
+      .faint { stroke: #0a0a0a; stroke-opacity: 0.22; fill: none; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 9.5px; letter-spacing: 1.8px; }
+      .serif { font-family: 'Iowan Old Style', Georgia, 'Times New Roman', serif; font-size: 32px; font-weight: 400; }
+      .sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; font-size: 10.5px; letter-spacing: 2.4px; }
+      @media (prefers-color-scheme: dark) {
+        .ink { fill: #f5f5f5; }
+        .stroke { stroke: #f5f5f5; }
+        .faint { stroke: #f5f5f5; stroke-opacity: 0.22; }
+      }
+    </style>
+  </defs>
+  <text x="30" y="13" class="mono ink">PL · 01</text>
+  <text x="650" y="13" class="mono ink" text-anchor="end">YDD</text>
+  <line x1="30" y1="20" x2="650" y2="20" class="stroke" stroke-width="0.6"/>
+  <line x1="30" y1="140" x2="650" y2="140" class="stroke" stroke-width="0.6"/>
+  <text x="30" y="154" class="mono ink">35°11′N · 0°38′W</text>
+  <text x="650" y="154" class="mono ink" text-anchor="end">MMXXVI</text>
+  <g transform="translate(90, 80)" stroke-linecap="round">
+    <line x1="-44" y1="0" x2="44" y2="0" class="faint" stroke-width="0.5" stroke-dasharray="1.5 2.5"/>
+    <line x1="0" y1="-44" x2="0" y2="44" class="faint" stroke-width="0.5" stroke-dasharray="1.5 2.5"/>
+    <circle cx="0" cy="0" r="32" class="stroke" stroke-width="0.8"/>
+    <polygon points="0,-32 32,0 0,32 -32,0" class="stroke" stroke-width="0.8"/>
+    <circle cx="0" cy="-32" r="1.6" class="ink"/>
+    <circle cx="32" cy="0" r="1.6" class="ink"/>
+    <circle cx="0" cy="32" r="1.6" class="ink"/>
+    <circle cx="-32" cy="0" r="1.6" class="ink"/>
+  </g>
+  <text x="170" y="72" class="serif ink">Yacine Dait Dehane</text>
+  <line x1="170" y1="86" x2="560" y2="86" class="stroke" stroke-width="0.4"/>
+  <text x="170" y="104" class="sans ink">AI ENGINEER  ·  SIDI BEL ABBÈS  ·  ESI</text>
+</svg>
