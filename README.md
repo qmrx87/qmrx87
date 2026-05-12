@@ -1,5 +1,5 @@
 <p align="left">
-  <img src=".github/header.svg" alt="Yacine Dait Dehane" width="100%">
+  <img src="./header.svg" alt="Yacine Dait Dehane" width="100%">
 </p>
 
 &nbsp;
